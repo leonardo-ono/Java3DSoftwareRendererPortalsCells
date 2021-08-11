@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/work/java/JavaRenderer3Dv10_portal_cells/src/renderer/Edge.java</file>
+            <file>file:/D:/work/java/JavaRenderer3Dv10_portal_cells/src/renderer/ZbufferScan.java</file>
+            <file>file:/D:/work/java/JavaRenderer3Dv10_portal_cells/src/bsp3d/Plane.java</file>
+            <file>file:/D:/work/java/JavaRenderer3Dv10_portal_cells/src/portal/Portal.java</file>
+            <file>file:/D:/work/java/JavaRenderer3Dv10_portal_cells/src/portal/Cell.java</file>
+            <file>file:/D:/work/java/JavaRenderer3Dv10_portal_cells/src/bsp3d/Node.java</file>
+            <file>file:/D:/work/java/JavaRenderer3Dv10_portal_cells/src/test/Test.java</file>
+            <file>file:/D:/work/java/JavaRenderer3Dv10_portal_cells/src/portal/Level.java</file>
+            <file>file:/D:/work/java/JavaRenderer3Dv10_portal_cells/src/renderer/PortalScan.java</file>
+            <file>file:/D:/work/java/JavaRenderer3Dv10_portal_cells/src/test/View.java</file>
+            <file>file:/D:/work/java/JavaRenderer3Dv10_portal_cells/src/math/InvSqrtTest.java</file>
+            <file>file:/D:/work/java/JavaRenderer3Dv10_portal_cells/src/res/test_portal_clip.obj</file>
+            <file>file:/D:/work/java/JavaRenderer3Dv10_portal_cells/src/renderer/ColorBuffer.java</file>
+            <file>file:/D:/work/java/JavaRenderer3Dv10_portal_cells/src/renderer/Texture.java</file>
+            <file>file:/D:/work/java/JavaRenderer3Dv10_portal_cells/src/renderer/parser/wavefront/MaterialParser.java</file>
+            <file>file:/D:/work/java/JavaRenderer3Dv10_portal_cells/src/renderer/LightBuffer.java</file>
+            <file>file:/D:/work/java/JavaRenderer3Dv10_portal_cells/src/renderer/DepthBuffer.java</file>
+            <file>file:/D:/work/java/JavaRenderer3Dv10_portal_cells/src/renderer/Renderer.java</file>
+            <file>file:/D:/work/java/JavaRenderer3Dv10_portal_cells/src/bsp3d/Triangle.java</file>
+            <file>file:/D:/work/java/JavaRenderer3Dv10_portal_cells/src/renderer/Light.java</file>
+            <file>file:/D:/work/java/JavaRenderer3Dv10_portal_cells/src/renderer/BasicShader.java</file>
+            <file>file:/D:/work/java/JavaRenderer3Dv10_portal_cells/src/renderer/Scan.java</file>
+            <file>file:/D:/work/java/JavaRenderer3Dv10_portal_cells/src/test/Keyboard.java</file>
+        </group>
+    </open-files>
+</project-private>

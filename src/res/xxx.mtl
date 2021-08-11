@@ -1,0 +1,134 @@
+# Blender MTL File: 'None'
+# Material Count: 12
+
+newmtl ascenseur
+Ns 25.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd D:\\work\\blender\\models\\levels\\level6_zone4\\level6-zone4-level-design-2002\\source\\Level6Zone4\\maps\\n7_ascenseur.png
+
+newmtl cale02
+Ns 25.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd D:\\work\\blender\\models\\levels\\level6_zone4\\level6-zone4-level-design-2002\\source\\Level6Zone4\\maps\\n7_cale02.png
+
+newmtl cale3
+Ns 25.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd D:\\work\\blender\\models\\levels\\level6_zone4\\level6-zone4-level-design-2002\\source\\Level6Zone4\\maps\\n7_cale03.png
+
+newmtl clonage03
+Ns 25.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd D:\\work\\blender\\models\\levels\\level6_zone4\\level6-zone4-level-design-2002\\source\\Level6Zone4\\maps\\n7_clonage03.png
+
+newmtl clonage4
+Ns 25.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd D:\\work\\blender\\models\\levels\\level6_zone4\\level6-zone4-level-design-2002\\source\\Level6Zone4\\maps\\n7_clonage04.png
+
+newmtl couloir
+Ns 25.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd D:\\work\\blender\\models\\levels\\level6_zone4\\level6-zone4-level-design-2002\\source\\Level6Zone4\\maps\\n7_couloir.png
+
+newmtl coursive01
+Ns 25.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd D:\\work\\blender\\models\\levels\\level6_zone4\\level6-zone4-level-design-2002\\source\\Level6Zone4\\maps\\n7_coursive01.png
+
+newmtl crematorium
+Ns 25.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd D:\\work\\blender\\models\\levels\\level6_zone4\\level6-zone4-level-design-2002\\source\\Level6Zone4\\maps\\n7_crematorium.png
+
+newmtl salle_test01
+Ns 25.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.502000 0.502000 0.502000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd D:\\work\\blender\\models\\levels\\level6_zone4\\level6-zone4-level-design-2002\\source\\Level6Zone4\\maps\\n7_salle_test01.png
+
+newmtl salle_test03
+Ns 25.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.502000 0.502000 0.502000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd D:\\work\\blender\\models\\levels\\level6_zone4\\level6-zone4-level-design-2002\\source\\Level6Zone4\\maps\\n7_salle_test03.png
+
+newmtl salletest2
+Ns 25.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd D:\\work\\blender\\models\\levels\\level6_zone4\\level6-zone4-level-design-2002\\source\\Level6Zone4\\maps\\n7_salle_test02.png
+
+newmtl salletest4
+Ns 25.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd D:\\work\\blender\\models\\levels\\level6_zone4\\level6-zone4-level-design-2002\\source\\Level6Zone4\\maps\\n7_salle_test04.png
